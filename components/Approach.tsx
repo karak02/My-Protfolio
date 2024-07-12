@@ -13,9 +13,9 @@ export function Approach() {
       </h1>
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center gap-4">
         <Card
-          title="Planing & Strategy"
+          title="Planning and Design"
           icon={<AceternityIcon order="Phase 1" />}
-          description="Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur nihil voluptatem nisi."
+          description="Define project requirements, create wireframes, and design the UI/UX. Establish the technology stack, database schema, and APIs to ensure seamless front-end and back-end integration, meeting user and business needs."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -23,7 +23,7 @@ export function Approach() {
           />
         </Card>
         <Card title="Devolopment & Process Update" icon={<AceternityIcon order="Phase 2"  />}
-        description="Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur nihil voluptatem nisi."
+        description="Implement the front-end using HTML, CSS, and JavaScript frameworks like React. Develop the back-end with Node.js, Express, and a database like MongoDB. Ensure secure, efficient code and API connections."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -36,8 +36,8 @@ export function Approach() {
           />
 
         </Card>
-        <Card title="Devlopoment & Launch" icon={<AceternityIcon order="Phase 3"  />}
-        description="Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur nihil voluptatem nisi."
+        <Card title="Testing and Deployment" icon={<AceternityIcon order="Phase 3"  />}
+        description=" Conduct thorough testing, including unit, integration, and end-to-end tests. Fix bugs, optimize performance, and deploy the application to a cloud platform like AWS or Heroku. Monitor and maintain post-deployment."
         >
           <CanvasRevealEffect
             animationSpeed={3}
