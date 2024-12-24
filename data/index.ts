@@ -74,9 +74,25 @@ export const navItems = [
       id: 1,
       title: "MY protfolio website",
       des: "Explore the wonders of protfolio with this Next.js.",
-      img: "/p1.svg",
+      img: "/Portfolio.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
       link: "https://github.com/karak02/My-Protfolio",
+    },
+    {
+      id: 2,
+      title: "Landing page",
+      des: "Explore the wonders of landing page in react js",
+      img: "/landing.svg",
+      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+      link: "https://landingpage-five-ochre.vercel.app",
+    },
+    {
+      id: 3,
+      title: "HealthDashboard",
+      des: "Explore the wonders of Dashboard in next.js",
+      img: "/dashboard.svg",
+      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+      link: "https://vercel.com/karak02s-projects/dashboard",
     },
    
   ];
